@@ -9,5 +9,5 @@ in the line 11th of code, just change according to D driver or C drive etc (set 
 
 note 1: above instructions were for the codeforces.py program file, for bonus tasks files the instructions are similar.
 
-note 2: just make sure while running the programs there are not pre directories for are there for the same name
+note 2: just make sure while running the programs there are not pre directories for the same name
 as the contest's numbers or the problems' number or the code will give error.
